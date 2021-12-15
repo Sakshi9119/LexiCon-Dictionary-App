@@ -1,2 +1,2 @@
 # LexiCon-Dictionary-App
-The app is basically an E-dictionary made with dictionart API. It also havving audio feature for the pronunciation purpose.
+The app is basically an E-dictionary made with dictionary API. It also having audio feature for the pronunciation purpose.
